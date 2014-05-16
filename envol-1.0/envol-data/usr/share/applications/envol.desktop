@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Blitzrechnen
+Comment=Mathematik lernen und üben
+Exec=/usr/share/bin/blitzrechnen
+Terminal=false
+Type=Application
+Icon=blitzrechnen.png
+Categories=Application;Education;
