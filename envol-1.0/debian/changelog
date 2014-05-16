@@ -1,0 +1,5 @@
+envol (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Fri, 16 May 2014 11:19:19 +0200
