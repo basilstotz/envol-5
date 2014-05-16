@@ -1,4 +1,4 @@
-Source: envol
+Source: envol-5
 Section: unknown
 Priority: extra
 Maintainer: Basil Stotz <stotz@amxa.ch>
@@ -8,8 +8,8 @@ Homepage: <insert the upstream URL, if relevant>
 #Vcs-Git: git://git.debian.org/collab-maint/envol.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/envol.git;a=summary
 
-Package: envol
+Package: envol-5
 Architecture: all
-Depends: wine, ${misc:Depends}
+Depends: wine, evince, ${misc:Depends}
 Description: A french language teaching app
  A french language teaching app
