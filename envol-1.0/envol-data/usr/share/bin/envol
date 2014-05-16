@@ -1,8 +1,8 @@
 #!/bin/sh
 
-if test -f /usr/share/prop/blitzrechnen/envol5.exe; then
+if test -f /usr/share/prop/envol/envol5.exe; then
   #/usr/share/bin/br-hack
-  wine /usr/share/prop/blitzrechnen/envol5.exe
+  wine /usr/share/prop/envol/envol5.exe
 else
   evince /usr/share/prop/envol/noapp.pdf
 fi
