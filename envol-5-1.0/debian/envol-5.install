@@ -1,0 +1,4 @@
+./envol-5-data/usr/share/prop/envol ./usr/share/prop/
+./envol-5-data/usr/share/applications/*.desktop ./usr/share/applications/
+./envol-5-data/usr/share/pixmaps/* ./usr/share/pixmaps/
+./envol-5-data/usr/share/bin/* ./usr/share/bin/
