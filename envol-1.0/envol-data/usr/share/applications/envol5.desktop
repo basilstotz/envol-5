@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Envol 
+Name=Envol 5 
 Comment=Französisch lernen und üben
-Exec=/usr/share/bin/envol
+Exec=/usr/share/bin/envol5
 Terminal=false
 Type=Application
 Icon=envol5.png
