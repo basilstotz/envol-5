@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Blitzrechnen
-Comment=Mathematik lernen und üben
-Exec=/usr/share/bin/blitzrechnen
+Name=Envol 
+Comment=Französisch lernen und üben
+Exec=/usr/share/bin/envol
 Terminal=false
 Type=Application
-Icon=blitzrechnen.png
+Icon=envol5.png
 Categories=Application;Education;
