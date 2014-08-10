@@ -5,4 +5,5 @@ Exec=/usr/share/bin/envol5
 Terminal=false
 Type=Application
 Icon=envol5.png
+Keywords="lp21 französisch"
 Categories=Application;Education;
